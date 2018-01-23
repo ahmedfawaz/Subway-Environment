@@ -1,0 +1,14 @@
+SMC_Platform_Floor_01
+
+"Static""Modular""Clean"_[Location]_[Type]_Prefix
+
+S= Static
+D= Dynamic
+
+M= Modular
+U= Unique
+COL= Collider
+
+C= Clean
+D= Dirty
+DC= Decal
